@@ -78,6 +78,10 @@ section {
   background-position: center;
   position: relative;
 }
+
+.flipBackgroundIMG {
+  transform: scaleX(-1);
+}
 /* Hero Style End */
 
 .hero-form {
